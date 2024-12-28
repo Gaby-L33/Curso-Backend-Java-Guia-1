@@ -1,6 +1,6 @@
 # Guía de Introducción a Java
 
-Esta guía está diseñada para ayudar a los principiantes a aprender los fundamentos del lenguaje de programación Java. A través de una serie de lecciones y ejercicios, los usuarios podrán familiarizarse con la sintaxis, la estructura y los conceptos básicos de Java.
+Esta guía, creada por **Egg**, está diseñada para ayudar a los principiantes a aprender los fundamentos del lenguaje de programación Java. A través de una serie de lecciones y ejercicios, los usuarios podrán familiarizarse con la sintaxis, la estructura y los conceptos básicos de Java.
 
 ## Objetivos de la Guía
 
